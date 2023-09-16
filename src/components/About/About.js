@@ -17,12 +17,12 @@ function About() {
             md={7}
             style={{
               justifyContent: "center",
-              paddingTop: "30px",
+              paddingTop: "",
               paddingBottom: "50px",
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+              Know Who <strong className="darkgreen">I'M</strong>
             </h1>
             <Aboutcard />
           </Col>
@@ -35,19 +35,13 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional{" "}
-          <strong className="" style={{ color: "black" }}>
-            Skillset{" "}
-          </strong>
+          Professional <strong className="darkgreen">Skillset </strong>
         </h1>
 
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="" style={{ color: "black" }}>
-            Tools
-          </strong>{" "}
-          I use
+          <strong className="darkgreen">Tools</strong> I use
         </h1>
         <Toolstack />
 

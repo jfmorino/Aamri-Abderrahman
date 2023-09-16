@@ -19,8 +19,13 @@ html {
   .purple {
     color: var(--imp-text-color) !important;
   }
+
   .black {
     color : black;
+  }
+  .darkgreen {
+    color :#5c8aff;
+    text-shadow: 2px 2px 4px #601414;
   }
   
   button:focus {
@@ -539,7 +544,7 @@ html {
     box-shadow: none !important;
   }
   .project-heading {
-    color: white !important;
+    color: black !important;
     font-size: 2.3em !important;
     font-weight: 500 !important;
     padding-top: 10px !important;
