@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Aamri-Abderrahman/static/css/main.b40597c7.css",
+    "main.js": "/Aamri-Abderrahman/static/js/main.0fdc688a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Aamri-Abderrahman/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project-my-e-bag.png": "/Aamri-Abderrahman/static/media/project-my-e-bag.2cb10eecf71e4e05c2a6.png",
+    "static/media/cvDIGITAL.pdf": "/Aamri-Abderrahman/static/media/cvDIGITAL.1f0e8fb9c7bfc2bf3b02.pdf",
+    "static/media/cvPHOTO.jpeg": "/Aamri-Abderrahman/static/media/cvPHOTO.db1479d8a8dc23c04a12.jpeg",
+    "static/media/Programming-amico.svg": "/Aamri-Abderrahman/static/media/Programming-amico.905cf90bad7904cad13c288d01a682b2.svg",
+    "static/media/abo.webp": "/Aamri-Abderrahman/static/media/abo.cd0f9e2cb060c66827e8.webp",
+    "static/media/home-bg-4.png": "/Aamri-Abderrahman/static/media/home-bg-4.da9268fee2e6c53aec45.png",
+    "static/media/AAMRI1.png": "/Aamri-Abderrahman/static/media/AAMRI1.1593b2fb121527a6a450.png",
+    "static/media/pre.svg": "/Aamri-Abderrahman/static/media/pre.83602eeee5710ac2d3b8.svg",
+    "index.html": "/Aamri-Abderrahman/index.html",
+    "main.b40597c7.css.map": "/Aamri-Abderrahman/static/css/main.b40597c7.css.map",
+    "main.0fdc688a.js.map": "/Aamri-Abderrahman/static/js/main.0fdc688a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Aamri-Abderrahman/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40597c7.css",
+    "static/js/main.0fdc688a.js"
+  ]
+}
