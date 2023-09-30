@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import chatify from "../../Assets/Projects/chatify.png";
+import chatify from "../../Assets/Projects/project-my-e-bag.png";
 
 function Projects() {
   return (
@@ -22,7 +22,7 @@ function Projects() {
               isBlog={false}
               title="MyEbag"
               description="An E-commerce website made by laravel and vue.js"
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/jfmorino"
               demoLink="http://myebag.shop/"
             />
           </Col>
